@@ -1,0 +1,12 @@
+.nav {
+  background-color: aquamarine;
+  color: brown;
+  text-align: right;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.lnk {
+  padding: 8px;
+}
